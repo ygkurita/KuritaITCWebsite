@@ -54,19 +54,19 @@ ul li.active a {
 .title {
     position: absolute;
     text-align: center;
-    top: 45%;
+    top: 50%;
     left: 49%;
     transform: translate(-50%, -50%);
 }
 
 .title h1 {
     color: #fff;
-    font-size: 90px;
+    font-size: 60px;
     font-family: sans-serif;
 }
 .title h2 {
     color: #fff;
-    font-size: 23px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     line-height: 2;
 }
